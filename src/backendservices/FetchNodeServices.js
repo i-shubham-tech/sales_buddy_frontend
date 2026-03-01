@@ -1,6 +1,6 @@
 import axios from "axios";
 // const serverURL="https://jw8bn53z-5000.inc1.devtunnels.ms"
-const serverURL = "https://salesbuddy-backend.onrender.com"
+const serverURL = process.env.REACT_APP_API_URL
 
 const postData = async (url, body) => {
   try {
