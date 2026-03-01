@@ -36,10 +36,10 @@ const Footer = () => {
 
 
   const usefulLinks = [
-    'About Croma', 'Help And Support', 'FAQs', 'Buying Guide', 'Return Policy',
+    'About salesbuddy', 'Help And Support', 'FAQs', 'Buying Guide', 'Return Policy',
     'B2B Orders', 'Store Locator', 'E-Waste', 'Franchise Opportunity',
-    'Site Map', 'Careers At Croma', 'Terms Of Use', 'Disclaimer', 'Privacy Policy',
-    'Unboxed', 'Gift Card', 'Croma E-Star',
+    'Site Map', 'Careers At salesbuddy', 'Terms Of Use', 'Disclaimer', 'Privacy Policy',
+    'Unboxed', 'Gift Card', 'salesbuddy E-Star',
   ];
 
   const products = [
@@ -95,7 +95,7 @@ const Footer = () => {
               </Box>
               <Box sx={{ marginTop: 5, display: isTablet ? "none" : isMobile ? "none" : "block" }}>
                 <Typography sx={{ fontSize: 16 }}>
-                  © Copyright 2025 Croma. All rights reserved
+                  © Copyright 2025 salesbuddy. All rights reserved
                 </Typography>
               </Box>
               <Divider sx={{ background: "white", marginTop: 3, display: isMobile ? "block" : "none" }} />
@@ -148,7 +148,7 @@ const Footer = () => {
           <Grid2 size={12} sx={{ display: isTablet ? "block" : isMobile ? "block" : "none" }}>
             <Box sx={{ display: "flex", justifyContent: "center" }}>
               <Typography sx={{ fontSize: 16 }}>
-                © Copyright 2025 Croma. All rights reserved
+                © Copyright 2025 salesbuddy. All rights reserved
               </Typography>
             </Box>
 
